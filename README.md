@@ -1,4 +1,7 @@
 # FP-growth
+
+参考博客：http://blog.csdn.net/Bone_ACE/article/details/46669699
+
 该项目是FP-growth算法的实现，该算法用于快速的寻找关联规则和频繁项集，只需要扫描两次数据库，设计很精妙。
 其中算法的伪代码给出如下：
 
